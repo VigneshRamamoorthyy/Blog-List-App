@@ -1,0 +1,29 @@
+.blog-list-container {
+  width: 100%;
+}
+
+.blog-title-date-div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-title {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+.published-date {
+  color: #9aa5b1;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.blog-description {
+  color: #9aa5b1;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+}

@@ -1,0 +1,23 @@
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 130px;
+}
+
+.profile-name {
+  color: #12022f;
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+.profile-job {
+  color: #616e7c;
+  font-family: Roboto;
+  font-size: 14px;
+  margin: 0px;
+}
